@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open HTML in VSC Challenge",
-            "file": "c:\\Users\\simmonsholdings\\Documents\\GitHub\\CSS-and-Bootstrap\\BasicHTML.htmlfile\\HTML in VSC Challenge"
+            "name": "Open index_space_station1.html",
+            "file": "c:\\Users\\simmonsholdings\\Documents\\GitHub\\Space Station Web site\\index_space_station1.html"
         }
     ]
 }
